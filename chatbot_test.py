@@ -9,8 +9,7 @@ from IPython.display import display, Markdown
 from scipy import spatial
 
 # Set OpenAI API key
-openai.api_key = os.environ.get("OPENAI_API_KEY", "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")
-
+openai.api_key = os.environ.get("OPENAI_API_KEY", "your-api-key")
 # Model configuration
 GPT_MODEL = "gpt-3.5-turbo"
 EMBEDDING_MODEL = "text-embedding-ada-002"
