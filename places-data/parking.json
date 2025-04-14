@@ -1,0 +1,587 @@
+[
+  {
+    "place": {
+      "provider": "HERE",
+      "providerId": 75,
+      "providerPlaceId": "here:pds:place:276u281z-d7a256f7cc354ad0a6771817f2101995",
+      "title": "Marienplatz",
+      "position": {
+        "lat": 48.1364,
+        "lng": 11.57476
+      },
+      "address": {
+        "countryCode": "DE",
+        "country": "Germany",
+        "regionCode": "BY",
+        "region": "Bavaria",
+        "city": "Munich",
+        "postalCode": "80331",
+        "district": "Altstadt",
+        "street": "Rindermarkt",
+        "houseNumber": "16"
+      },
+      "formattedAddress": "Rindermarkt 16, 80331 Munich",
+      "entrances": [
+        {
+          "position": {
+            "lat": 48.13626,
+            "lng": 11.57465
+          }
+        }
+      ],
+      "placeType": "POI",
+      "category": {
+        "losCategory": "car_park",
+        "name": "Multistorey Car Park"
+      },
+      "secondaryCategories": [
+        {
+          "losCategory": "parking",
+          "name": "Parking"
+        }
+      ],
+      "brand": {
+        "id": "HERE:22212",
+        "displayName": "Bavaria Parkgaragen"
+      },
+      "hasChildrenPois": "NO",
+      "businessHours": {
+        "formattedHours": ["Open 24 hours"],
+        "nextStatusChange": "Open 24 hours",
+        "status": "OPEN",
+        "structured": [
+          {
+            "start": "T000000",
+            "duration": "PT24H00M",
+            "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+          }
+        ]
+      },
+      "phonemes": {
+        "language": "en-GB",
+        "title": "ma|\"ri:|@n|%plats",
+        "address": {
+          "country": "\"dZ3|m@|ni",
+          "region": "b@|\"ve@|ri|@",
+          "city": "\"mju|nIk",
+          "district": "\"?alt|Stat",
+          "street": "\"rIn|d6|%markt"
+        }
+      },
+      "parking": {
+        "operator": "Bavaria Parkgaragen"
+      },
+      "contact": {
+        "phoneNumber": "+49 89 2323988910",
+        "website": "http://www.bavaria-parkgaragen.de",
+        "email": "parkgaragen@bavaria-parkgaragen.de"
+      },
+      "staticIconDiscriminator": {
+        "parkingPreferredPartner": false,
+        "refuelingPreferredPartner": false,
+        "chargingPreferredPartner": false,
+        "onlinePayment": false
+      }
+    },
+    "distance": 120.83646426708594
+  },
+  {
+    "place": {
+      "provider": "parkopedia",
+      "providerId": 25,
+      "providerPlaceId": "217137",
+      "title": "Marienplatz",
+      "position": {
+        "lat": 48.136303966,
+        "lng": 11.57466799
+      },
+      "address": {
+        "countryCode": "DE",
+        "country": "Germany",
+        "region": "Angerviertel",
+        "city": "München",
+        "postalCode": "80331",
+        "street": "Rindermarkt 16"
+      },
+      "formattedAddress": "Rindermarkt 16, 80331 München",
+      "entrances": [
+        {
+          "position": {
+            "lat": 48.136241316,
+            "lng": 11.574705541
+          }
+        }
+      ],
+      "placeType": "POI",
+      "category": {
+        "losCategory": "parking_lot",
+        "name": "Parking"
+      },
+      "hasChildrenPois": "NO",
+      "businessHours": {
+        "formattedHours": ["Open 24 hours"],
+        "nextStatusChange": "Open 24 hours",
+        "status": "OPEN",
+        "structured": [
+          {
+            "start": "T000000",
+            "duration": "PT24H00M",
+            "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+          }
+        ]
+      },
+      "commercial": {
+        "paymentMethods": [
+          "DEBIT_MAESTRO",
+          "CREDIT_CARD_MASTER",
+          "CASH",
+          "CREDIT_CARD_AMEX",
+          "CREDIT_CARD_VISA"
+        ],
+        "onlinePay": false,
+        "supportInvoice": false,
+        "priceSummary": {
+          "priceSummaryText": "9,50 € / 2h",
+          "free": false
+        },
+        "priceStructured": {
+          "listPrices": [
+            {
+              "service": "PARKING",
+              "price": 5.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 5,00 € / 1 hour",
+              "quantity": 1,
+              "unit": "hour",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            },
+            {
+              "service": "PARKING",
+              "price": 4.5,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 4,50 € / additional hour",
+              "unit": "additional hour",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            },
+            {
+              "service": "PARKING",
+              "price": 36.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 36,00 € / 24 hours",
+              "quantity": 24,
+              "unit": "hours",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            }
+          ],
+          "preComputedPrices": [
+            {
+              "service": "PARKING",
+              "price": 9.5,
+              "currency": "EUR",
+              "formattedPriceString": "9,50 € / 2h",
+              "quantity": 2,
+              "unit": "hour",
+              "startTime": "202307201422",
+              "endTime": "202307201622",
+              "lastUpdate": "202307201416"
+            },
+            {
+              "service": "PARKING",
+              "price": 9.5,
+              "currency": "EUR",
+              "formattedPriceString": "9,50 € / 2h",
+              "quantity": 2,
+              "unit": "hour",
+              "startTime": "202307201422",
+              "endTime": "202307201622",
+              "lastUpdate": "202307201416"
+            }
+          ]
+        }
+      },
+      "parking": {
+        "spotsNumber": 265,
+        "disabledSpotsNumber": 2,
+        "parkingDimensionRestriction": {
+          "height": 1.8,
+          "width": 2.3
+        },
+        "services": ["DISABLED"],
+        "types": ["PCOV"],
+        "operator": "Contipark Parkgaragengesellschaft mbH"
+      },
+
+      "contact": {
+        "phoneNumber": "+49 30 319871555"
+      },
+      "staticIconDiscriminator": {
+        "parkingPreferredPartner": false,
+        "refuelingPreferredPartner": false,
+        "chargingPreferredPartner": false,
+        "onlinePayment": false
+      }
+    },
+    "distance": 133.34699360123676
+  },
+  {
+    "place": {
+      "provider": "parkopedia",
+      "providerId": 25,
+      "providerPlaceId": "217141",
+      "title": "City",
+      "position": {
+        "lat": 48.137116173,
+        "lng": 11.571689397
+      },
+      "address": {
+        "countryCode": "DE",
+        "country": "Germany",
+        "region": "Kreuzviertel",
+        "city": "München",
+        "postalCode": "80331",
+        "street": "Färbergraben 5"
+      },
+      "formattedAddress": "Färbergraben 5, 80331 München",
+      "entrances": [
+        {
+          "position": {
+            "lat": 48.137090218,
+            "lng": 11.571642458
+          }
+        },
+        {
+          "position": {
+            "lat": 48.136907969,
+            "lng": 11.571861969
+          }
+        }
+      ],
+      "placeType": "POI",
+      "category": {
+        "losCategory": "car_park",
+        "name": "Car parks"
+      },
+      "hasChildrenPois": "NO",
+      "businessHours": {
+        "formattedHours": ["Mon - Sat: 07:00 - 00:00"],
+        "nextStatusChange": "Closes at 24:00",
+        "nextStatusChangeTime": "20230721T0000",
+        "status": "OPEN",
+        "structured": [
+          {
+            "start": "T070000",
+            "duration": "PT17H00M",
+            "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA"
+          }
+        ]
+      },
+      "commercial": {
+        "paymentMethods": ["CREDIT_CARD_MASTER", "CASH", "CREDIT_CARD_VISA"],
+        "onlinePay": false,
+        "supportInvoice": false,
+        "priceSummary": {
+          "priceSummaryText": "6,00 € / 2h",
+          "free": false
+        },
+        "priceStructured": {
+          "listPrices": [
+            {
+              "service": "PARKING",
+              "price": 3.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 3,00 € / 1 hour",
+              "quantity": 1,
+              "unit": "hour",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            },
+            {
+              "service": "PARKING",
+              "price": 6.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 6,00 € / 2 hours",
+              "quantity": 2,
+              "unit": "hours",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            },
+            {
+              "service": "PARKING",
+              "price": 9.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 9,00 € / 3 hours",
+              "quantity": 3,
+              "unit": "hours",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            },
+            {
+              "service": "PARKING",
+              "price": 12.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 12,00 € / 4 hours",
+              "quantity": 4,
+              "unit": "hours",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            },
+            {
+              "service": "PARKING",
+              "price": 15.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 15,00 € / 5 hours",
+              "quantity": 5,
+              "unit": "hours",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            },
+            {
+              "service": "PARKING",
+              "price": 18.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 18,00 € / 6 hours",
+              "quantity": 6,
+              "unit": "hours",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            },
+            {
+              "service": "PARKING",
+              "price": 21.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 21,00 € / 7 hours",
+              "quantity": 7,
+              "unit": "hours",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            },
+            {
+              "service": "PARKING",
+              "price": 24.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 24,00 € / 24 hours",
+              "quantity": 24,
+              "unit": "hours",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            }
+          ],
+          "preComputedPrices": [
+            {
+              "service": "PARKING",
+              "price": 3.0,
+              "currency": "EUR",
+              "formattedPriceString": "3,00 € / 1h",
+              "quantity": 1,
+              "unit": "hour",
+              "startTime": "202307201422",
+              "endTime": "202307201522",
+              "lastUpdate": "202307201422"
+            },
+            {
+              "service": "PARKING",
+              "price": 6.0,
+              "currency": "EUR",
+              "formattedPriceString": "6,00 € / 2h",
+              "quantity": 2,
+              "unit": "hour",
+              "startTime": "202307201422",
+              "endTime": "202307201622",
+              "lastUpdate": "202307201422"
+            }
+          ]
+        }
+      },
+      "parking": {
+        "spotsNumber": 400,
+        "freeSpotsNumber": 84,
+        "parkingDimensionRestriction": {
+          "height": 2.3
+        },
+        "types": ["MSTOP"],
+        "operator": "MÜHOGA Münchner Hochgaragen GmbH"
+      },
+      "availability": {
+        "status": "ALMOST_OCCUPIED",
+        "lastUpdate": "2023-07-20 13:49:47+00"
+      },
+
+      "contact": {
+        "phoneNumber": "+49 89 266177"
+      },
+      "staticIconDiscriminator": {
+        "parkingPreferredPartner": false,
+        "refuelingPreferredPartner": false,
+        "chargingPreferredPartner": false,
+        "onlinePayment": false
+      }
+    },
+    "distance": 276.97688997688107
+  },
+  {
+    "place": {
+      "provider": "parkopedia",
+      "providerId": 25,
+      "providerPlaceId": "386244",
+      "title": "Platzl Hotel München",
+      "position": {
+        "lat": 48.138232209,
+        "lng": 11.579035968
+      },
+      "address": {
+        "countryCode": "DE",
+        "country": "Germany",
+        "region": "Graggenau",
+        "city": "München",
+        "postalCode": "80331",
+        "street": "Sparkassenstraße 10"
+      },
+      "formattedAddress": "Sparkassenstraße 10, 80331 München",
+      "entrances": [
+        {
+          "position": {
+            "lat": 48.138267113,
+            "lng": 11.578955501
+          }
+        }
+      ],
+      "placeType": "POI",
+      "category": {
+        "losCategory": "car_park",
+        "name": "Car parks"
+      },
+      "hasChildrenPois": "NO",
+      "businessHours": {
+        "formattedHours": ["Open 24 hours"],
+        "nextStatusChange": "Open 24 hours",
+        "status": "OPEN",
+        "structured": [
+          {
+            "start": "T000000",
+            "duration": "PT24H00M",
+            "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+          }
+        ]
+      },
+      "commercial": {
+        "paymentMethods": ["CASH"],
+        "onlinePay": false,
+        "supportInvoice": false,
+        "priceSummary": {
+          "priceSummaryText": "8,00 € / 2h",
+          "free": false
+        },
+        "priceStructured": {
+          "listPrices": [
+            {
+              "service": "PARKING",
+              "price": 4.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 4,00 € / 1 hour",
+              "quantity": 1,
+              "unit": "hour",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            },
+            {
+              "service": "PARKING",
+              "price": 30.0,
+              "currency": "EUR",
+              "formattedPriceString": "Open 24 hours: 30,00 € / 24 hours",
+              "quantity": 24,
+              "unit": "hours",
+              "timeframe": {
+                "start": "T000000",
+                "duration": "PT24H00M",
+                "recurrence": "FREQ:WEEKLY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+              }
+            }
+          ],
+          "preComputedPrices": [
+            {
+              "service": "PARKING",
+              "price": 8.0,
+              "currency": "EUR",
+              "formattedPriceString": "8,00 € / 2h",
+              "quantity": 2,
+              "unit": "hour",
+              "startTime": "202307201422",
+              "endTime": "202307201622",
+              "lastUpdate": "202307201219"
+            },
+            {
+              "service": "PARKING",
+              "price": 8.0,
+              "currency": "EUR",
+              "formattedPriceString": "8,00 € / 2h",
+              "quantity": 2,
+              "unit": "hour",
+              "startTime": "202307201422",
+              "endTime": "202307201622",
+              "lastUpdate": "202307201219"
+            }
+          ]
+        }
+      },
+      "parking": {
+        "spotsNumber": 62,
+        "parkingDimensionRestriction": {
+          "height": 1.85,
+          "width": 2.1
+        },
+        "types": ["UP"],
+        "operator": "Platzl Hotel Inselkammer KG"
+      },
+
+      "contact": {
+        "phoneNumber": "+49 89 237030"
+      },
+      "staticIconDiscriminator": {
+        "parkingPreferredPartner": false,
+        "refuelingPreferredPartner": false,
+        "chargingPreferredPartner": false,
+        "onlinePayment": false
+      }
+    },
+    "distance": 285.0557270320887
+  }
+]

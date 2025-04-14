@@ -1,0 +1,469 @@
+[
+  {
+    "place": {
+      "provider": "HERE",
+      "providerId": 75,
+      "providerPlaceId": "here:pds:place:276u281z-95e9a8dd31cf487f8629994afef3e33c",
+      "title": "Sasou",
+      "position": {
+        "lat": 48.13697,
+        "lng": 11.5748
+      },
+      "address": {
+        "countryCode": "DE",
+        "country": "Germany",
+        "regionCode": "BY",
+        "region": "Bavaria",
+        "city": "Munich",
+        "postalCode": "80331",
+        "district": "Altstadt",
+        "street": "Marienplatz",
+        "houseNumber": "28"
+      },
+      "formattedAddress": "Marienplatz 28, 80331 Munich",
+      "entrances": [
+        {
+          "position": {
+            "lat": 48.13723,
+            "lng": 11.57493
+          }
+        }
+      ],
+      "placeType": "POI",
+      "category": {
+        "losCategory": "restaurants",
+        "name": "Restaurant"
+      },
+      "secondaryCategories": [
+        {
+          "losCategory": "business_facility",
+          "name": "Catering & Food Services"
+        }
+      ],
+      "hasChildrenPois": "NO",
+      "businessHours": {
+        "formattedHours": ["Mon - Sat: 11:00 - 21:00"],
+        "nextStatusChange": "Closes at 21:00",
+        "nextStatusChangeTime": "20230720T2100",
+        "status": "OPEN",
+        "structured": [
+          {
+            "start": "T110000",
+            "duration": "PT10H00M",
+            "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+          }
+        ]
+      },
+      "reviewSummary": {
+        "provider": "Tripadvisor",
+        "ciVersion": "V1",
+        "averageRating": 3.5,
+        "reviewCount": 187,
+        "ratingIconId": "35"
+      },
+      "phonemes": {
+        "language": "en-GB",
+        "title": "\"za:|zu:",
+        "address": {
+          "country": "\"dZ3|m@|ni",
+          "region": "b@|\"ve@|ri|@",
+          "city": "\"mju|nIk",
+          "district": "\"?alt|Stat",
+          "street": "ma|\"ri:|@n|%plats"
+        }
+      },
+      "commercial": {
+        "onlinePay": false,
+        "supportInvoice": false,
+        "priceSummary": {
+          "priceRangeLevel": 3.0,
+          "priceRangeText": "€€€",
+          "free": false
+        }
+      },
+      "foodTypes": [
+        {
+          "id": "203-026",
+          "name": "Japanese - Sushi",
+          "primary": true
+        },
+        {
+          "id": "200-000",
+          "name": "Asian",
+          "primary": false
+        },
+        {
+          "id": "203-000",
+          "name": "Japanese",
+          "primary": false
+        },
+        {
+          "id": "204-000",
+          "name": "Southeast Asian",
+          "primary": false
+        },
+        {
+          "id": "302-000",
+          "name": "German",
+          "primary": false
+        },
+        {
+          "id": "800-050",
+          "name": "Fast Food",
+          "primary": false
+        },
+        {
+          "id": "800-080",
+          "name": "Soup",
+          "primary": false
+        }
+      ],
+      "contact": {
+        "phoneNumber": "+49 89 263701",
+        "website": "http://www.sasou.de",
+        "email": "welcome@sasou.de"
+      },
+      "staticIconDiscriminator": {
+        "parkingPreferredPartner": false,
+        "refuelingPreferredPartner": false,
+        "chargingPreferredPartner": false,
+        "onlinePayment": false
+      }
+    },
+    "distance": 65.29277618006775
+  },
+  {
+    "place": {
+      "provider": "HERE",
+      "providerId": 75,
+      "providerPlaceId": "here:pds:place:276jx7ps-847dde14f02b05d6a7f55420d4da56bb",
+      "title": "Chang City",
+      "position": {
+        "lat": 48.13812,
+        "lng": 11.57446
+      },
+      "address": {
+        "countryCode": "DE",
+        "country": "Germany",
+        "regionCode": "BY",
+        "region": "Bavaria",
+        "city": "Munich",
+        "postalCode": "80333",
+        "district": "Altstadt",
+        "street": "Sporerstraße",
+        "houseNumber": "2"
+      },
+      "formattedAddress": "Sporerstraße 2, 80333 Munich",
+      "entrances": [
+        {
+          "position": {
+            "lat": 48.13821,
+            "lng": 11.57451
+          }
+        }
+      ],
+      "placeType": "POI",
+      "category": {
+        "losCategory": "restaurants",
+        "name": "Restaurant"
+      },
+      "secondaryCategories": [
+        {
+          "losCategory": "tea_house",
+          "name": "Tea Room"
+        }
+      ],
+      "hasChildrenPois": "NO",
+      "businessHours": {
+        "formattedHours": [
+          "Tue - Fri: 11:30 - 15:00",
+          "Tue - Wed: 17:30 - 23:45",
+          "Thu: 17:30 - 00:00",
+          "Fri: 17:30 - 23:45",
+          "Sat - Sun: 11:30 - 00:00"
+        ],
+        "nextStatusChange": "Closes at 15:00",
+        "nextStatusChangeTime": "20230720T1500",
+        "status": "OPEN",
+        "structured": [
+          {
+            "start": "T113000",
+            "duration": "PT03H30M",
+            "recurrence": "FREQ:DAILY;BYDAY:TU,WE,TH,FR"
+          },
+          {
+            "start": "T173000",
+            "duration": "PT06H15M",
+            "recurrence": "FREQ:DAILY;BYDAY:TU,WE,FR"
+          },
+          {
+            "start": "T173000",
+            "duration": "PT06H30M",
+            "recurrence": "FREQ:DAILY;BYDAY:TH"
+          },
+          {
+            "start": "T113000",
+            "duration": "PT12H30M",
+            "recurrence": "FREQ:DAILY;BYDAY:SA,SU"
+          }
+        ]
+      },
+      "phonemes": {
+        "language": "en-GB",
+        "title": "\"tSaNg \"sI|ti:",
+        "address": {
+          "country": "\"dZ3|m@|ni",
+          "region": "b@|\"ve@|ri|@",
+          "city": "\"mju|nIk",
+          "district": "\"?alt|Stat",
+          "street": "\"Spo:|r6|%Stra:|s@"
+        }
+      },
+      "foodTypes": [
+        {
+          "id": "203-026",
+          "name": "Japanese - Sushi",
+          "primary": true
+        },
+        {
+          "id": "200-000",
+          "name": "Asian",
+          "primary": false
+        },
+        {
+          "id": "205-000",
+          "name": "Thai",
+          "primary": false
+        },
+        {
+          "id": "300-000",
+          "name": "European",
+          "primary": false
+        },
+        {
+          "id": "800-064",
+          "name": "International",
+          "primary": false
+        }
+      ],
+      "contact": {
+        "phoneNumber": "+49 89 25544100"
+      },
+      "staticIconDiscriminator": {
+        "parkingPreferredPartner": false,
+        "refuelingPreferredPartner": false,
+        "chargingPreferredPartner": false,
+        "onlinePayment": false
+      }
+    },
+    "distance": 106.11761827733689
+  },
+  {
+    "place": {
+      "provider": "HERE",
+      "providerId": 75,
+      "providerPlaceId": "here:pds:place:276u281z-372843aae01a915074a8c3adc213687c",
+      "title": "Shaokao Asian Grill&Wine",
+      "position": {
+        "lat": 48.13723,
+        "lng": 11.57303
+      },
+      "address": {
+        "countryCode": "DE",
+        "country": "Germany",
+        "regionCode": "BY",
+        "region": "Bavaria",
+        "city": "Munich",
+        "postalCode": "80331",
+        "district": "Altstadt",
+        "street": "Fürstenfelder Straße",
+        "houseNumber": "9"
+      },
+      "formattedAddress": "Fürstenfelder Straße 9, 80331 Munich",
+      "entrances": [
+        {
+          "position": {
+            "lat": 48.13729,
+            "lng": 11.57293
+          }
+        }
+      ],
+      "placeType": "POI",
+      "category": {
+        "losCategory": "restaurants",
+        "name": "Restaurant"
+      },
+      "hasChildrenPois": "NO",
+      "businessHours": {
+        "formattedHours": ["Mon - Sat: 17:30 - 23:00"],
+        "nextStatusChange": "Opens at 17:30",
+        "nextStatusChangeTime": "20230720T1730",
+        "status": "CLOSED",
+        "structured": [
+          {
+            "start": "T173000",
+            "duration": "PT05H30M",
+            "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+          }
+        ]
+      },
+      "phonemes": {
+        "language": "en-GB",
+        "address": {
+          "country": "\"dZ3|m@|ni",
+          "region": "b@|\"ve@|ri|@",
+          "city": "\"mju|nIk",
+          "district": "\"?alt|Stat",
+          "street": "\"fYrs|t=n|%fEl|d6 \"Stra:|s@"
+        }
+      },
+      "foodTypes": [
+        {
+          "id": "101-003",
+          "name": "American-Barbecue",
+          "primary": true
+        },
+        {
+          "id": "200-000",
+          "name": "Asian",
+          "primary": false
+        },
+        {
+          "id": "201-000",
+          "name": "Chinese",
+          "primary": false
+        },
+        {
+          "id": "203-000",
+          "name": "Japanese",
+          "primary": false
+        },
+        {
+          "id": "203-026",
+          "name": "Japanese - Sushi",
+          "primary": false
+        },
+        {
+          "id": "300-000",
+          "name": "European",
+          "primary": false
+        },
+        {
+          "id": "800-064",
+          "name": "International",
+          "primary": false
+        },
+        {
+          "id": "800-066",
+          "name": "Fusion",
+          "primary": false
+        },
+        {
+          "id": "800-078",
+          "name": "Grill",
+          "primary": false
+        }
+      ],
+      "contact": {
+        "phoneNumber": "+49 491 722947032",
+        "website": "http://www.shaokao.de"
+      },
+      "staticIconDiscriminator": {
+        "parkingPreferredPartner": false,
+        "refuelingPreferredPartner": false,
+        "chargingPreferredPartner": false,
+        "onlinePayment": false
+      }
+    },
+    "distance": 176.76938163917512
+  },
+  {
+    "place": {
+      "provider": "HERE",
+      "providerId": 75,
+      "providerPlaceId": "here:pds:place:276u281z-1b2b62513e1072f8923c55e73d608a47",
+      "title": "Secret Garden",
+      "position": {
+        "lat": 48.13564,
+        "lng": 11.57763
+      },
+      "address": {
+        "countryCode": "DE",
+        "country": "Germany",
+        "regionCode": "BY",
+        "region": "Bavaria",
+        "city": "Munich",
+        "postalCode": "80331",
+        "district": "Altstadt",
+        "street": "Heiliggeiststraße",
+        "houseNumber": "2"
+      },
+      "formattedAddress": "Heiliggeiststraße 2, 80331 Munich",
+      "entrances": [
+        {
+          "position": {
+            "lat": 48.13571,
+            "lng": 11.57744
+          }
+        }
+      ],
+      "placeType": "POI",
+      "category": {
+        "losCategory": "restaurants",
+        "name": "Restaurant"
+      },
+      "hasChildrenPois": "NO",
+      "reviewSummary": {
+        "provider": "Tripadvisor",
+        "ciVersion": "V1",
+        "averageRating": 4.0,
+        "reviewCount": 20,
+        "ratingIconId": "40"
+      },
+      "phonemes": {
+        "language": "en-GB",
+        "title": "\"si|kr@t \"gA|d@n",
+        "address": {
+          "country": "\"dZ3|m@|ni",
+          "region": "b@|\"ve@|ri|@",
+          "city": "\"mju|nIk",
+          "district": "\"?alt|Stat",
+          "street": "%haI|lIC|\"gaIst|Stra:|s@"
+        }
+      },
+      "foodTypes": [
+        {
+          "id": "203-026",
+          "name": "Japanese - Sushi",
+          "primary": true
+        },
+        {
+          "id": "200-000",
+          "name": "Asian",
+          "primary": false
+        },
+        {
+          "id": "206-000",
+          "name": "Vietnamese",
+          "primary": false
+        },
+        {
+          "id": "800-076",
+          "name": "Vegan",
+          "primary": false
+        }
+      ],
+      "contact": {
+        "phoneNumber": "+49 89 45665628",
+        "website": "http://secretgarden-muenchen.com"
+      },
+      "staticIconDiscriminator": {
+        "parkingPreferredPartner": false,
+        "refuelingPreferredPartner": false,
+        "chargingPreferredPartner": false,
+        "onlinePayment": false
+      }
+    },
+    "distance": 256.12745399802503
+  }
+]
